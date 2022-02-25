@@ -105,9 +105,9 @@ form{
     main{
         height: 100rem;
     }
-    #card-body{
+  #card-body{
         display: block;
-        width: 100%;
+        width: 101%;
         height: 85rem;
     }
     .formBox1{
